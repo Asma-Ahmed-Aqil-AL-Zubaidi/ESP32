@@ -1,12 +1,23 @@
 # ESP32
 An educational algorithm that teaches you how to use the ESP32 chip with the features of this piece and the software you need
 1-The first step in programming is to download a program"
-Arduino IDE"
-2-Choose the right operating system, device, and bit
-3-just download
-4-Connect the ESP32 piece to the port5- From the File menu bar
+Arduino IDE"<img width="416" alt="image" src="https://user-images.githubusercontent.com/108140215/178853428-ec010c05-8d67-4058-9317-0cee25e1a5b7.png">
 
-6-Example"This list contains examples of most of the programming cases of the widget"
+2-Choose the right operating system, device, and bit
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/108140215/178853472-0972edb4-b63d-41cf-998b-1d4840286ca5.png">
+
+3-just download
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/108140215/178853481-68920674-ddc8-4a9b-9012-3adcd884caec.png">
+
+4-Connect the ESP32 piece to the port5- From the File menu bar
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/108140215/178853495-1536cf41-ade5-4170-8479-4a3282e65343.png">
+<img width="265" alt="image" src="https://user-images.githubusercontent.com/108140215/178853578-64352555-c87b-401d-b103-757dbdeee22e.png">
+
+
+5- From the File menu bar
+
+
+6-Example"This list contains examples of most of the programming cases of the widget" 
 You can choose the example you want to give and you will see the code ready
 
 7- Then we will go to"Blink"
@@ -45,6 +56,8 @@ Here is the light
 
 LOW
 Off the light
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/108140215/178853603-48cfaf73-4268-4218-916f-c2584634b8a0.png">
+
 
 10 - The features of this piece are many
 - What is special about it is that it has WiFi and Bluetooth
@@ -56,16 +69,12 @@ Off the light
 -Consists of 18 digital outputs These outputs allow you to output two energies 0 volts or 5 volts
 - It has a connection to connect it to the computer
 - Competitive price on features
-- powerful processor<img width="416" alt="image" src="https://user-images.githubusercontent.com/108140215/178851727-85de7519-899f-4c0b-8d0b-4c90968fcd23.png">
-![1](https://user-images.githubusercontent.com/108140215/178852097-eccd1a75-dbc5-4909-a615-6b59b86bbb3e.png)
-![2](https://user-images.githubusercontent.com/108140215/178852170-762ab204-3574-428d-b4f9-c24addba2593.png)
-<img width="416" alt="image" src="https://user-images.githubusercontent.com/108140215/178852234-d9831041-46d0-4271-89d3-9aa35d4f37ff.png">
-<img width="416" alt="image" src="https://user-images.githubusercontent.com/108140215/178852243-b2a2ed6e-1012-4b0c-ae10-89d7ecab0a3f.png">
-<img width="416" alt="image" src="https://user-
-<img width="416" alt="image" src="https://user-images.githubusercontent.com/108140215/178852271-579e959f-6c77-47e0-9026-4fb4390438c2.png">
-images.githubusercontent.com/108140215/178852258-dc0d061d-1add-403e-9e5a-3bd8fa8f0391.png">
-<img width="416" alt="image" src="https://user-images.githubusercontent.com/108140215/178852291-33002266-d07c-4e7f-a080-60197703b220.png">
-<img width="416" alt="image" src="https://user-images.githubusercontent.com/108140215/178852300-a85b76c6-a154-4bbc-bcd3-bd97be13725b.png">
+- - powerful processor
+
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/108140215/178853652-aed9dca3-a888-452e-96f5-726b7846dc7a.png">
+
+11- After all this, try the existing examples
+
 
 
 
